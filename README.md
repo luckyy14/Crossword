@@ -24,14 +24,23 @@ Configuration
 Example
 
 7
+
 =======
+
 =-----=
+
 =-=====
+
 =-=====
+
 -------
+
 =======
+
 =======
+
 bad;accept;red
+
 5;4;7
 
 Using Dictionary.py
