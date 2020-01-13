@@ -32,11 +32,4 @@ Using Dictionary.py
     python Dictionary.py
     input a word to display its synonyms
 
-Copyright (c) 2019 by Lakshay Baheti, Saurabh Mohata, Keshav Garg.
--
-Authors:
--
-    Lakshay Baheti
-    Saurabh Mohata
-    Keshav Garg
-    
+Copyright (c) 2019 by Lakshay Baheti
