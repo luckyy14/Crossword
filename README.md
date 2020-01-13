@@ -24,8 +24,10 @@ Configuration
     Next line contains list of size of solution respectively that need to be fitted to the crossword puzzles delimited by ;
 
 
+
 Sample in samples.txt
 -
+
 
 Using Dictionary.py
 -
